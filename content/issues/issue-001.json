@@ -1,0 +1,31 @@
+{
+  "issueNumber": 1,
+  "date": "2026-06-17",
+  "subject": "The silent referral engine, Stanley's villain era, and why dinner clubs print money",
+  "preheader": "Three signals you can act on today.",
+  "signals": [
+    {
+      "type": "acquisition",
+      "headline": "Notion's template gallery drives more signups than any paid channel",
+      "body": "Notion doesn't advertise templates — it lets users publish them publicly, indexed by Google. Each template page is a long-tail SEO hit that converts at ~4× the rate of a blog post because the visitor has already decided they have the problem. The acquisition cost is zero; the content is made by users who want visibility. Operator move: open your power users' workflows to the public and let them do the SEO for you.",
+      "source": "https://notion.so/templates",
+      "sourceLabel": "Notion Templates",
+      "tags": ["SEO", "UGC", "PLG"]
+    },
+    {
+      "type": "brand",
+      "headline": "Stanley leaned into the cup-in-a-burning-car video instead of running from it",
+      "body": "When a customer posted a video of her car burning down with a Stanley cup surviving intact, Stanley's president replied on TikTok within hours — and replaced her car. The earned media was worth tens of millions. The brand move wasn't the reply itself; it was the speed and the specificity (car, not just cup). Most brands would have sent a PR statement. Stanley sent a person with a cheque. When your product does something remarkable, make the moment bigger, not quieter.",
+      "source": "https://www.theguardian.com/food/2024/jan/16/stanley-cup-car-fire-video-tiktok",
+      "sourceLabel": "The Guardian",
+      "tags": ["PR", "social", "brand response"]
+    },
+    {
+      "type": "pattern",
+      "headline": "Private dinner clubs are the new membership model nobody's bothered to digitise",
+      "body": "Across London, New York and Sydney, informal dinner clubs — 12 to 40 members, £500–£2,000/year, one hosted meal per month — are quietly generating £80K–£300K ARR with zero tech and zero marketing. The value is access and curation, not content. Members pay for the room, not the speaker. The commercial pattern: as digital community gets noisier, the premium moves to physical scarcity. Nobody has built the infrastructure layer for this yet — booking, payments, waitlists, member vetting.",
+      "tags": ["community", "IRL", "membership", "whitespace"]
+    }
+  ],
+  "footer": "You're receiving Truvium because you signed up at truvium.co. Unsubscribe anytime."
+}
