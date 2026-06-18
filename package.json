@@ -8,18 +8,20 @@
     "dev": "ts-node src/index.ts",
     "new-issue": "ts-node src/cli/new-issue.ts",
     "render": "ts-node src/cli/render.ts",
+    "send": "ts-node src/cli/send.ts",
     "lint": "eslint src/**/*.ts",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "date-fns": "^3.6.0",
     "mustache": "^4.2.0",
+    "resend": "^6.14.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/mustache": "^4.2.5",
     "@types/node": "^20.14.0",
-    "typescript": "^5.4.5",
-    "ts-node": "^10.9.2"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
   }
 }
